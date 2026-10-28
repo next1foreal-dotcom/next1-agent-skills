@@ -1,0 +1,84 @@
+[
+  {
+    "id": "01-research-scout",
+    "project": "Research scout",
+    "display_name": "研究侦察",
+    "config": {
+      "c": "#FFD60A",
+      "shape": "spiky",
+      "eye": "googly",
+      "look": [-0.5, -0.7],
+      "tilt": 7,
+      "pos": [510, 550],
+      "face": [0, 0],
+      "gap": 180,
+      "bg": "#4B2BB5",
+      "deep": true
+    }
+  },
+  {
+    "id": "02-voice-inbox",
+    "project": "Voice inbox",
+    "display_name": "语音收件箱",
+    "config": {
+      "c": "#FF5FC8",
+      "shape": "bubble",
+      "eye": "happy",
+      "mth": "o",
+      "tilt": -7,
+      "pos": [535, 530],
+      "face": [0, -10],
+      "bg": "#004A44",
+      "deep": true
+    }
+  },
+  {
+    "id": "03-clip-organizer",
+    "project": "Clip organizer",
+    "display_name": "剪辑整理",
+    "config": {
+      "c": "#2F6BFF",
+      "shape": "box",
+      "eye": "pixel",
+      "mth": "flat",
+      "look": [1, 0],
+      "tilt": -5,
+      "pos": [512, 570],
+      "face": [0, -20],
+      "bg": "#FFD23F",
+      "deep": true
+    }
+  },
+  {
+    "id": "04-focus-helper",
+    "project": "Focus helper",
+    "display_name": "专注助手",
+    "config": {
+      "c": "#A6E31B",
+      "shape": "gummy",
+      "eye": "sleepy",
+      "tilt": 5,
+      "pos": [512, 570],
+      "face": [0, -20],
+      "bg": "#5A1E9E",
+      "deep": true
+    }
+  },
+  {
+    "id": "05-agent-mail",
+    "project": "Agent mail",
+    "display_name": "Agent 邮箱",
+    "config": {
+      "c": "#14CFE0",
+      "shape": "ears",
+      "eye": "wink",
+      "mth": "smile",
+      "tilt": -6,
+      "pos": [512, 575],
+      "face": [0, 20],
+      "mouth_y": 80,
+      "bg": "#7A0F4A",
+      "deep": true
+    }
+  }
+]

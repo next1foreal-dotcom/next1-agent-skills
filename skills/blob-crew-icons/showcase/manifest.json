@@ -1,0 +1,98 @@
+{
+  "style_reference": [
+    {
+      "path": "style-reference/ai-generated-style-exploration.png",
+      "dimensions": [2142, 734],
+      "generation_method": "AI-generated style exploration; reference only, not output from the Python generator"
+    }
+  ],
+  "skill_covers": [
+    {
+      "id": "joyboy-ip",
+      "png": "skill-icons/joyboy-ip/icon-1024.png",
+      "svg": "skill-icons/joyboy-ip/icon.svg",
+      "dimensions": [1024, 1024],
+      "generation_method": "Custom vector body and face rendered with the original Blob Crew compositor"
+    },
+    {
+      "id": "monster-forge",
+      "png": "skill-icons/monster-forge/icon-1024.png",
+      "svg": "skill-icons/monster-forge/icon.svg",
+      "dimensions": [1024, 1024],
+      "generation_method": "Custom vector body and face rendered with the original Blob Crew compositor"
+    },
+    {
+      "id": "blob-crew-icons",
+      "png": "skill-icons/blob-crew-icons/icon-1024.png",
+      "svg": "skill-icons/blob-crew-icons/icon.svg",
+      "dimensions": [1024, 1024],
+      "generation_method": "Custom vector body and face rendered with the original Blob Crew compositor"
+    },
+    {
+      "id": "resume-designer",
+      "png": "skill-icons/resume-designer/icon-1024.png",
+      "svg": "skill-icons/resume-designer/icon.svg",
+      "dimensions": [1024, 1024],
+      "generation_method": "Custom vector body and face rendered with the original Blob Crew compositor"
+    },
+    {
+      "id": "album-cover",
+      "png": "skill-icons/album-cover/icon-1024.png",
+      "svg": "skill-icons/album-cover/icon.svg",
+      "dimensions": [1024, 1024],
+      "generation_method": "Custom vector body and face rendered with the original Blob Crew compositor"
+    },
+    {
+      "path": "skill-icons/overview.png",
+      "dimensions": [1600, 580],
+      "generation_method": "Contact overview of the five approved Skill-cover artworks"
+    }
+  ],
+  "project_tests": [
+    {
+      "id": "01-research-scout",
+      "png": "project-icons/01-research-scout.png",
+      "svg": "project-icons/01-research-scout.svg",
+      "dimensions": [1024, 1024],
+      "generation_method": "Original Blob Crew compositor with a portable fictional project-test config"
+    },
+    {
+      "id": "02-voice-inbox",
+      "png": "project-icons/02-voice-inbox.png",
+      "svg": "project-icons/02-voice-inbox.svg",
+      "dimensions": [1024, 1024],
+      "generation_method": "Original Blob Crew compositor with a portable fictional project-test config"
+    },
+    {
+      "id": "03-clip-organizer",
+      "png": "project-icons/03-clip-organizer.png",
+      "svg": "project-icons/03-clip-organizer.svg",
+      "dimensions": [1024, 1024],
+      "generation_method": "Original Blob Crew compositor with a portable fictional project-test config"
+    },
+    {
+      "id": "04-focus-helper",
+      "png": "project-icons/04-focus-helper.png",
+      "svg": "project-icons/04-focus-helper.svg",
+      "dimensions": [1024, 1024],
+      "generation_method": "Original Blob Crew compositor with a portable fictional project-test config"
+    },
+    {
+      "id": "05-agent-mail",
+      "png": "project-icons/05-agent-mail.png",
+      "svg": "project-icons/05-agent-mail.svg",
+      "dimensions": [1024, 1024],
+      "generation_method": "Original Blob Crew compositor with a portable fictional project-test config"
+    },
+    {
+      "path": "project-icons/blob-crew-icons-contact.png",
+      "dimensions": [1880, 470],
+      "generation_method": "Review contact sheet for the five project-test outputs"
+    },
+    {
+      "path": "project-icons/blob-small-size-proof.png",
+      "dimensions": [1000, 290],
+      "generation_method": "Review proof showing 64px and 32px thumbnails"
+    }
+  ]
+}
